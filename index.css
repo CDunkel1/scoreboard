@@ -1,0 +1,67 @@
+@font-face {
+    font-family: "Cursed Timer ULiL";
+    src: url("https://db.onlinewebfonts.com/t/ab0e848e0e83a85a5af69f5acf1ebe73.eot");
+    src: url("https://db.onlinewebfonts.com/t/ab0e848e0e83a85a5af69f5acf1ebe73.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/ab0e848e0e83a85a5af69f5acf1ebe73.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/ab0e848e0e83a85a5af69f5acf1ebe73.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/ab0e848e0e83a85a5af69f5acf1ebe73.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/ab0e848e0e83a85a5af69f5acf1ebe73.svg#Cursed Timer ULiL")format("svg")
+}
+
+
+
+body {
+    margin: 0;
+    color: #EEEEEE;
+    text-align: center;
+    }   
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1B244A;
+    text-align: center;
+    }
+
+#team{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    font-style: bold;
+    margin-top: 68px;
+    }
+    
+#score{
+    margin:auto;
+    max-width:155px;
+    max-height: 120px;
+    background-color: #080001;
+    font-family: "Cursed Timer ULiL";
+    font-size: 90px;
+    color: #F94F6D;
+    padding-left: 20px;
+    padding-right: 20px;
+    }
+    
+button {
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    background-color: #1B244A;
+    color: #9AABD8;
+    margin-bottom: 68px;
+    padding: 16px;
+    margin: 20px 5px 68px;
+    }
+    
+    #home-el{
+        margin:0px;
+    }
+    
+    #guest-el{
+        margin: 0px;
+    }
+
+    
+    
+
+
+
